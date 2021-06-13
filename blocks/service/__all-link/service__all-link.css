@@ -1,0 +1,22 @@
+.service__all-link {
+	font-family: Inter;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 30px;
+	color: #000000;
+	text-decoration: none;
+	position: relative;
+	margin-bottom: 83px;
+	padding-right: 40px;
+}
+
+.service__all-link::before {
+	content: "";
+	position: absolute;
+	width: 22px;
+	height: 14px;
+	top: 7px;
+	right: 0;
+	background-image: url(../../../images/service/black-arrow.svg);
+}

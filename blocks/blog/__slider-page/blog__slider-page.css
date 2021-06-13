@@ -1,0 +1,10 @@
+.blog__items {
+	display: grid !important;
+	grid-template-columns: repeat(3, 1fr);
+	margin-bottom: 75px;
+}
+
+#slide2 {
+	display: grid !important;
+	grid-template-columns: repeat(3, 1fr);
+}

@@ -1,0 +1,6 @@
+.contact__input-message {
+	height: 150px !important;
+	padding-top: 10px;
+	max-width: 100%;
+	resize: none;
+}

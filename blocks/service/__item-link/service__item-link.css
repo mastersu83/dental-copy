@@ -1,0 +1,21 @@
+.service__item-link {
+	font-family: Inter;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 16px;
+	color: #0096ff;
+	text-decoration: none;
+	position: relative;
+	padding-right: 25px;
+}
+
+.service__item-link::before {
+	content: "";
+	position: absolute;
+	top: 3px;
+	right: 0;
+	width: 15px;
+	height: 10px;
+	background-image: url(../../../images/service/arrow.svg);
+}

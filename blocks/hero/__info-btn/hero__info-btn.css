@@ -1,0 +1,23 @@
+.hero__info-btn {
+	font-family: Inter;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 30px;
+	text-align: center;
+	color: #ffffff;
+	background: #0096ff;
+	border-radius: 10px;
+	border: none;
+	width: 248px;
+	height: 64px;
+	cursor: pointer;
+}
+
+.hero__info-btn:hover {
+	background-color: #24a4ff;
+}
+
+.hero__info-btn:active {
+	background-color: #045a97;
+}

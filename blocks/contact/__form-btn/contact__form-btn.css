@@ -1,0 +1,22 @@
+.contact__form-btn {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 19px;
+	color: #ffffff;
+	background: #0096ff;
+	border-radius: 5px;
+	border: none;
+	width: 178px;
+	height: 48px;
+	cursor: pointer;
+	display: block;
+	margin: 0 auto;
+}
+
+.contact__form-btn:hover {
+	background: #56b7fd;
+	transition: 0.3s;
+}
+.contact__form-btn:active {
+	background: #016cb9;
+}

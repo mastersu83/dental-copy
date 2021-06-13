@@ -1,0 +1,11 @@
+.relax {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	column-gap: 29px;
+	max-width: 1170px;
+	margin: 0 auto -121px;
+	margin-bottom: 120px;
+	background-image: url(../../images/relax/bg-circle.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}

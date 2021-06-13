@@ -1,0 +1,6 @@
+.clients__item-title-wrapper {
+	box-shadow: 0px 30px 40px rgba(77, 76, 76, 0.151);
+	padding: 33px 40px 28px;
+	box-sizing: border-box;
+	border-radius: 10px;
+}

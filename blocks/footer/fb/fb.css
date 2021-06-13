@@ -1,0 +1,14 @@
+.fb {
+	position: relative;
+}
+
+.fb::after {
+	position: absolute;
+	content: "";
+	width: 13px;
+	height: 13px;
+	top: 3px;
+	left: 0;
+	background-image: url(../../../images/footer/fb.svg);
+	background-repeat: no-repeat;
+}

@@ -1,0 +1,13 @@
+.footer__newsletter-btn {
+	font-family: inter;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 10px;
+	line-height: 12px;
+	color: #ffffff;
+	background: #0096ff;
+	border: 1px solid #ffffff;
+	box-sizing: border-box;
+	width: 67px;
+	height: 27px;
+}

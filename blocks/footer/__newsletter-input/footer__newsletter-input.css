@@ -1,0 +1,17 @@
+.footer__newsletter-input {
+	width: 124px;
+	height: 27px;
+	padding: 0;
+	margin: 0;
+	border: none;
+	padding-left: 7px;
+}
+
+.footer__newsletter-input::placeholder {
+	font-family: inter;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 10px;
+	line-height: 12px;
+	color: #808080;
+}

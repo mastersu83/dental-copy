@@ -1,0 +1,12 @@
+.best {
+	background: linear-gradient(
+		to top,
+		#ffffff 0px,
+		#ffffff 42px,
+		#f0f6fb 42px,
+		#f0f6fb 477px,
+		#ffffff 477px,
+		#ffffff 519px
+	);
+	margin-bottom: 106px;
+}

@@ -1,0 +1,6 @@
+.about-us__container {
+	max-width: 1170px;
+	margin: 87px auto 73px;
+	display: flex;
+	justify-content: space-between;
+}

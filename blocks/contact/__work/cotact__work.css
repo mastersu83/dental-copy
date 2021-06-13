@@ -1,0 +1,9 @@
+.contact__work .contact__about-title::after {
+	background-image: url(../../../images/contact/work.svg);
+	position: absolute;
+	content: "";
+	width: 20px;
+	height: 20px;
+	top: 0;
+	left: 47%;
+}

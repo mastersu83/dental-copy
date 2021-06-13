@@ -1,0 +1,8 @@
+.header__social-block {
+	padding: 0;
+	list-style-type: none;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	width: 100%;
+}

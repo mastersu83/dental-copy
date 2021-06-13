@@ -1,0 +1,8 @@
+.hero-about {
+	background: #0096ff;
+	min-height: 148px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}

@@ -1,0 +1,10 @@
+.doctors__title {
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 36px;
+	line-height: 64px;
+	color: #18191f;
+	text-align: center;
+	margin-bottom: 40px;
+}

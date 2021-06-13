@@ -1,0 +1,18 @@
+.contact__about-title {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 35px;
+	text-align: center;
+	padding-top: 30px;
+	position: relative;
+}
+.contact__about-title::after {
+	background-image: url(../../../images/contact/position.svg);
+	position: absolute;
+	content: "";
+	width: 20px;
+	height: 20px;
+	top: 0;
+	left: 47%;
+}

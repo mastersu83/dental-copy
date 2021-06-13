@@ -1,0 +1,10 @@
+.doctors__cards {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	margin-bottom: 75px;
+}
+
+#slide1 {
+	display: grid !important;
+	grid-template-columns: repeat(4, 1fr);
+}

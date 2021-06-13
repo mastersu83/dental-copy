@@ -1,0 +1,14 @@
+.hero__bg {
+	position: relative;
+}
+.hero__bg::after {
+	background-color: #0096ff;
+	content: "";
+	position: absolute;
+	width: 650px;
+	height: 600px;
+	top: -114px;
+	left: 70px;
+	z-index: -1;
+	border-radius: 50% 0 50% 50%;
+}

@@ -1,0 +1,7 @@
+.contact__about {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	justify-content: space-between;
+	margin-top: 64px;
+	margin-bottom: 84px;
+}

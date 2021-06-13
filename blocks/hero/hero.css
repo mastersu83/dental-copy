@@ -1,0 +1,6 @@
+.hero {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	padding-top: 114px;
+	padding-bottom: 107px;
+}

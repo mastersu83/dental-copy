@@ -1,0 +1,12 @@
+.footer__social-text {
+	font-family: inter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 16px;
+	color: #ffffff;
+	padding-left: 23px;
+	display: inline-block;
+	margin: 0 0 11px 0;
+	position: relative;
+}

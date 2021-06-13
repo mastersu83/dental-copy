@@ -1,0 +1,11 @@
+.feature__item {
+	background: #0096ff;
+	border-radius: 20px;
+	width: 254px;
+	height: 181px;
+	padding: 20px 20px 13px 13px;
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+}

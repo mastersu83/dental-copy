@@ -1,0 +1,20 @@
+.blog__item-data-like {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 14px;
+	color: #999999;
+	text-decoration: none;
+	padding-left: 16px;
+	position: relative;
+}
+
+.blog__item-data-like::after {
+	position: absolute;
+	content: "";
+	width: 12px;
+	height: 12px;
+	top: 1px;
+	left: 0;
+	background-image: url(../../../images/blog/like.svg);
+}

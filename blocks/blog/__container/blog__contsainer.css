@@ -1,0 +1,18 @@
+.blog__container {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 49px;
+	max-width: 1170px;
+	margin: 49px auto 0;
+}
+
+.blog__container .blog__item-img {
+	max-width: 501px;
+}
+.blog__container .blog__item-subtitle {
+	max-width: 640px;
+}
+.blog__container .blog__item-title {
+	font-size: 26px;
+	margin-bottom: 13px;
+}
